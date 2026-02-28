@@ -1,45 +1,49 @@
-[English](./README.md) | 中文
+# Hi there! I'm [你的名字] 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+**Java Backend Developer** | 致力于构建高性能、可扩展的分布式系统。
 
-## 到目前为止，已有![访客计数](https://profile-counter.glitch.me/xingwangzhe/count.svg) 次访问
+---
 
-### 你可以从此大概了解我：
+### 🛠 技术栈 (Tech Stack)
 
-- 🌱 目前正在东北大学（沈阳）学习
-- 💻 我的博客:[博客](https://xingwangzhe.github.io)
-- 📫 如何联系我: xingwangzhe@outlook.com
-- 🔭 我的理想追求: 计算机图形学、计算机科学、游戏制作
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+</p>
 
-### 我的技能集
+---
 
-<table><tr><td valign="top" width="32%">
+### 📊 GitHub 数据统计 (GitHub Stats)
 
-#### 当前正在学习
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=radical" alt="[你的用户名]'s github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=radical" alt="[你的用户名]'s top languages" />
+</p>
 
-<div align="center">
-  [![Java](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/)
-  [![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)](https://github.com/)
-  [![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)](https://html.com/)
-  [![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg)](https://www.w3.org/Style/CSS/)
-</div>
+---
 
-</td>
-<td valign="top" width="32%">
+### 🚀 主要项目 (Key Projects)
 
-#### 计划学习
-<div align="center">
-  [![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/)
+* **[项目名称1]**: 简述项目功能，例如：基于 Spring Cloud 的微服务电商平台。
+* **[项目名称2]**: 使用的技术点，例如：基于 Netty 的高性能 IM 系统。
 
-</td>
-<td valign="top" width="32%">
+---
 
-#### 使用的语言
+### ⚡ 动态 (Activity)
 
-![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+---
 
-</td></tr></table>
+### 📞 联系我 (Contact)
 
-### 成就记录
-
-[![Ashutosh的GitHub活动图表](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <a href="mailto:[你的邮箱]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="[你的个人博客链接]" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost&logoColor=white" alt="Blog"/>
+  </a>
+</p>
