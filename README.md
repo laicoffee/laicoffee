@@ -1,61 +1,51 @@
-# Hi there! I'm [你的名字] 👋
+# awstan
 
-**Java Backend Developer** | 3年经验 | 专注于高性能物联网平台与医疗AI应用开发。
+[English](./README.md) | 中文
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Developer;IoT+&+AI+Agent;Hello+World!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-### 🛠 技术栈 (Tech Stack)
+## 到目前为止，已有![访客计数](https://profile-counter.glitch.me/awstan/count.svg) 次访问
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-323330?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netty-4479A1?style=for-the-badge&logo=netty&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+### 你可以从此大概了解我：
 
----
+- 💼 目前在从事医疗方向 **AI Agent** 的研发
+- 🚀 前物联网平台方向后端开发
+- 💻 我的博客:[博客](https://xingwangzhe.github.io)
+- 📫 如何联系我: xingwangzhe@outlook.com
+- 🔭 我的技术追求: 高并发分布式系统、AI应用落地
 
-### 📊 技术画像 (Skills Matrix)
+### 我的技能集
 
-| 领域 | 核心技能 |
-| :--- | :--- |
-| **Java后端** | 熟练掌握 JVM 调优、多线程并发编程、Spring Cloud 微服务架构。 |
-| **物联网** | 熟练使用 **Netty** 框架处理海量设备连接，熟悉 **MQTT** 协议，高并发数据采集。 |
-| **AI Agent** | 结合 **LangChain** 构建医疗领域知识库问答、医学报告分析 Agent。 |
-| **数据库** | 擅长 **MySQL** 复杂 SQL 优化，**Redis** 缓存一致性方案，时序数据库 (InfluxDB) 使用。 |
+<table><tr><td valign="top" width="32%">
 
----
+#### 当前的核心技能
 
-### 📝 工作经历与项目经验 (Experience)
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/spring-original-wordmark.svg" alt="Spring Boot" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="30" />
+</div>
 
-#### 🏥 医疗AI方向 (Current)
-* **医疗报告辅助分析系统**: 使用 Java + Spring Boot 构建 Agent 服务端，集成大语言模型，实现医疗影像报告的自动结构化提取与初步分析。
-* **医疗知识问答平台**: 基于 RAG (检索增强生成) 架构，优化知识库检索效率。
+</td>
+<td valign="top" width="32%">
 
-#### 🌐 物联网方向 (Previous)
-* **海量设备接入平台**: 基于 Netty 自定义协议解析器，处理百万级设备连接，使用 Kafka 实现数据削峰填谷。
-* **实时监控看板**: 使用 WebSocket 实现设备状态的秒级推送。
+#### 行业/拓展技能
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />
+  <img src="https://profilinator.rishav.dev/skills-assets/kafka-original-wordmark.svg" alt="Kafka" height="30" />
+</div>
 
----
+</td>
+<td valign="top" width="32%">
 
-### 🔗 联系方式 (Connect with me)
+#### 使用语言统计
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://blog.csdn.net/yourname" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-CSDN-red?style=flat-square" />
-</a>
+![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=awstan&layout=compact)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=dark" />
-</p>
+</td></tr></table>
+
+### 成就记录
+
+[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=awstan&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
